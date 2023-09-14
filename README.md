@@ -4,7 +4,13 @@
 - 💻 I’m currently learning Data Science 
 
 - 👷🏽‍♂️ I'm Civil Engineer
-
+<br>
+<div>
+    <h2>Conecte-se comigo</h2>
+   <a href="https://www.linkedin.com/in/hugo-vasconcelos-35389340/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href = "mailto:hugovfdcarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<br>
 <div>
   <a href="https://github.com/hugoferraz5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoferraz5&layout=compact&langs_count=7&theme=dark"/>
