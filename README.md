@@ -1,25 +1,19 @@
-### Hi there, I'm Hugo Ferraz👋
-### Welcome to my GitHub  
-
-- 💻 I’m currently learning Data Science 
-
-- 👷🏽‍♂️ I'm Civil Engineer
 - Porfolio: https://hugoferraz5.github.io/Portfolios_web/
 <br>
 <div>
-    <h2>Contact me</h2>
+    <h2>Contato</h2>
    <a href="https://www.linkedin.com/in/hugo-vasconcelos-35389340/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     <a href = "mailto:hugovfdcarvalho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
 <div>
-    <h2>Languages and Stats</h2>
+    <h2>Linguagens e Estatísticas</h2>
   <a href="https://github.com/hugoferraz5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoferraz5&layout=compact&langs_count=7&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoferraz5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
-    <h2>Skills</h2>
+    <h2>Habilidades</h2>
     
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
     
